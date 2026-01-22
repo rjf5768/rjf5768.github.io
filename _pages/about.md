@@ -11,8 +11,6 @@ I'm a senior undergraduate student at The Pennsylvania State University studying
 
 I am fortunate to be advised by Professor Suman Saha at Penn State, where I work on research at the intersection of large language models and program analysis. My work has resulted in two preprints exploring whether LLMs can simulate symbolic execution and recover program semantics from obfuscated code.
 
-Previously, I worked as a Software Developer Intern at Shanghai Meditation Network Technology Co., Ltd., where I contributed to feature development and system maintenance.
-
 I am applying for PhD in the upcoming application cycles, please feel free to reach out to me!
 
 Research Interests
