@@ -23,9 +23,9 @@ My research interests broadly lie in artificial intelligence and machine learnin
 - AI agents and autonomous systems
 - Trustworthy and reliable AI
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 20px;">
-  <img src="/images/IMG_2213.jpg" style="width: 100%; border-radius: 6px;">
-  <img src="/images/IMG_2573.jpg" style="width: 100%; border-radius: 6px;">
-  <img src="/images/IMG_3559.jpg" style="width: 100%; border-radius: 6px;">
-  <img src="/images/IMG_3560.jpg" style="width: 100%; border-radius: 6px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 20px; max-width: 500px;">
+  <div style="height: 160px; overflow: hidden; border-radius: 6px;"><img src="/images/IMG_2213.jpg" style="width: 100%; height: 100%; object-fit: cover;"></div>
+  <div style="height: 160px; overflow: hidden; border-radius: 6px;"><img src="/images/IMG_2573.jpg" style="width: 100%; height: 100%; object-fit: cover;"></div>
+  <div style="height: 160px; overflow: hidden; border-radius: 6px;"><img src="/images/IMG_3559.jpg" style="width: 100%; height: 100%; object-fit: cover;"></div>
+  <div style="height: 160px; overflow: hidden; border-radius: 6px;"><img src="/images/IMG_3560.jpg" style="width: 100%; height: 100%; object-fit: cover;"></div>
 </div>
