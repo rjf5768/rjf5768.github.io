@@ -26,16 +26,16 @@ author:
   avatar           : "grad.jpeg"
   name             : "Rong Feng"
   pronouns         : # example: "she/her"
-  bio              : "Undergraduate student @ Penn State University"
-  location         : "State College, PA"
-  employer         : "Pennsylvania State University"
+  bio              : "Master's student @ University of Maryland"
+  location         : "College Park, MD"
+  employer         : "University of Maryland"
   uri              : # URL
-  email            : "rjf5768@psu.edu"
+  email            : "rjf5768@umd.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=trivlFsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
